@@ -16,7 +16,7 @@ function App() {
         <Aside>
 
           <Container>
-            <Routes>
+            <Routes basename={process.env.PUBLIC_URL}>
               
               <Route exact path="/" element={<Home/>} > </Route>
               <Route exact path="/Notas" element={<Notas/>} > </Route>
