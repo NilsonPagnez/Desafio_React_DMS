@@ -1,0 +1,26 @@
+.sectionHome  {
+    width: 100%;
+}
+.sectionHome .sectionDiv {
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sectionHome h1 {
+    font-size: 4rem;
+    font-weight: 400;
+    color: black;
+}
+.sectionHome h2 {
+    font-size: 3rem;
+    font-weight: 400;
+    color: black;
+}
+.sectionHome h3 {
+    font-size: 2rem;
+    font-weight: 400;
+    color: black;
+}

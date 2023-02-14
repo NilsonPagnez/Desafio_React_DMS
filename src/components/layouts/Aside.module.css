@@ -1,0 +1,23 @@
+.aside{
+    display: flex;
+    min-height: 90vh;
+    width: 100%;
+
+}
+.aside .asideUl{
+    display: flex;
+    flex-direction: column;
+    background-color: #a03404;
+    width: 6rem;
+}
+.aside .asideUl li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom:1px solid rgba(170, 168, 168, 0.404);
+    height: 4.5rem;
+}
+.aside .asideUl a{
+    font-size: 2rem;
+    color: white;
+}
