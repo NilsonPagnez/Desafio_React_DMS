@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Desafio_React_DMS/static/css/main.c80935c4.css",
-    "main.js": "/Desafio_React_DMS/static/js/main.c24b71b1.js",
+    "main.js": "/Desafio_React_DMS/static/js/main.32f24e4c.js",
     "static/media/comemoracao.png": "/Desafio_React_DMS/static/media/comemoracao.b059132158bbbf352e83.png",
     "static/media/LogoUV2.png": "/Desafio_React_DMS/static/media/LogoUV2.45fd886bb2589bd7349d.png",
     "index.html": "/Desafio_React_DMS/index.html",
     "main.c80935c4.css.map": "/Desafio_React_DMS/static/css/main.c80935c4.css.map",
-    "main.c24b71b1.js.map": "/Desafio_React_DMS/static/js/main.c24b71b1.js.map"
+    "main.32f24e4c.js.map": "/Desafio_React_DMS/static/js/main.32f24e4c.js.map"
   },
   "entrypoints": [
     "static/css/main.c80935c4.css",
-    "static/js/main.c24b71b1.js"
+    "static/js/main.32f24e4c.js"
   ]
 }
